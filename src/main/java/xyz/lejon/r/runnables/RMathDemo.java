@@ -12,6 +12,8 @@ public class RMathDemo {
 		int lowerTail = 1;
 		int useLog = 0; 
 		
+		rmath.set_seed((int)System.currentTimeMillis(), 0);
+		
 		System.out.printf("Drew standard normal random covariate %f\n", rmath.rnorm(0.0, 1.0));
 		double gd = rmath.rgamma(shape, scale);
 	    System.out.printf("Drew gamma random variate %f\n", gd);
