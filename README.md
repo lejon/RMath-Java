@@ -1,9 +1,13 @@
 RMath-Java
 ==========
 
-This is a Java wrapper of the R math library.
+This is a Java wrapper of the R math library. If you are not interested in the whole GIT repo you can just download the latest release of the JAR file (from the Releases section) and add it to your CLASSPATH. 
 
-Basic usage: 
+Currently the it only works on Mac OS X, since I haven't compiled the native for the other OS'es yet, but Linux are in the pipe.
+
+## Basic usage 
+
+Add 'RMath-Java-X.X.X.jar' to your classpath.
   
 ```java
 
@@ -38,6 +42,10 @@ The cumulative density (CDF) of the gamma distribution at 2.110755126439184E-5 i
 The probability density function (PDF) of the gamma distribution at 2.110755126439184E-5 is 37228.494674
 The inverse cumulative density (quantile) of the gamma distribution at 2.110755126439184E-5 is 0.000002
 ```
+
+## R Version 
+
+R Version 3.2.1
 
 ## License
 
