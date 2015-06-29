@@ -29,6 +29,16 @@ public class RMathDemo {
 }
 ```
 
+Results in:
+
+```
+Drew normal -1.269737
+Drew gamma 0.000021
+It has cdf gamma 0.337581
+It has pdf gamma 37228.494674
+It has quantile gamma 0.000002
+```
+
 ## License
 
 Same as R! :)
