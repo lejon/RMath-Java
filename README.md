@@ -27,9 +27,11 @@ public class RMathDemo {
 	    System.out.printf("It has quantile gamma %f\n", rmath.qgamma(gd, shape, scale,lowerTail,useLog));
 	}
 }
-
-
 ```
+
+## License
+
+Same as R! :)
 
 Enjoy!
 -Leif
