@@ -45,6 +45,11 @@ The probability density function (PDF) of the gamma distribution at 2.1107551264
 The inverse cumulative density (quantile) of the gamma distribution at 2.110755126439184E-5 is 0.000002
 ```
 
+## Supported Architectures
+
+* Mac OS X
+* Linux x86 64 bit 
+
 ## R Version 
 
 R Version 3.2.1
