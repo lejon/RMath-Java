@@ -1,7 +1,7 @@
 RMath-Java
 ==========
 
-This is a Java wrapper of the R math library. If you are not interested in the whole GIT repo you can just download the latest release of the JAR file (from the Releases section) and add it to your CLASSPATH. 
+RMath-Java is a Java wrapper of R's C library of math functions. If you are not interested in the whole GIT repo you can just download the latest release of the JAR file (from the Releases section) and add it to your CLASSPATH. 
 
 Currently the it only works on Mac OS X, since I haven't compiled the native for the other OS'es yet, but Linux are in the pipe.
 
