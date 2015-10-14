@@ -35,7 +35,12 @@ public class RMathDemo {
 }
 ```
 
-Results in:
+You can test this by running: 
+
+java -jar RMath-Java-1.1.0.jar 
+
+
+This should result in:
 
 ```
 Drew standard normal random covariate -1.269737
